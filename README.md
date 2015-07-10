@@ -1,4 +1,4 @@
-# Dynamo-Mapper for Java [![Build Status]
+# Dynamo-Mapper for Java
 
 ## Features
 
