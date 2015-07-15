@@ -1,8 +1,8 @@
 # Dynamo-Mapper for Java
 
 ## Features
-
-## Getting Started
+AWS wrapped libraries for java.
+dynamo-mapper is the first project of the plan.
 
 ## Building From Source
 
